@@ -16,7 +16,8 @@ In general relativity, gravity curves spacetime. This simulation approximates th
 - Strongly bent rays near the center
 - A lens-like visual pattern emerges
 
-![bending](Gravitational Light Bending.png)
+![bending](Gravitational%20Light%20Bending.png)
+
 
 ---
 
